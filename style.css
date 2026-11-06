@@ -165,3 +165,14 @@ footer {
     margin-top: 3rem;
     font-size: 0.9rem;
 }
+<footer>
+        <p>&copy; 2026 - Meu Projeto</p>
+    </footer>
+
+    <!-- COLE AQUI A NOVA SEÇÃO DE TECNOLOGIAS -->
+    <section class="tecnologias-secao">
+        <!-- (conteúdo dos cartões) -->
+    </section>
+
+</body>
+</html>
